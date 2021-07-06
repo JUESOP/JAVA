@@ -18,7 +18,7 @@ public class Test2161 {
 		Queue<Integer> q = new LinkedList<Integer>();
 
 		for (int i = 1; i <= N; i++)
-			q.offer(i); // 큐에 보관
+			q.offer(i); 
 
 		while (!q.isEmpty()) { // 큐가 비어있지 않을 때 반복
 			int num1 = q.poll(); // 젤 위에 있는 카드 빼내고 num1에 저장
