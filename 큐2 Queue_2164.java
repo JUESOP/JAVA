@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Test1 {
+public class Test2164 {
 
 	public static void main(String[] args) {
 
