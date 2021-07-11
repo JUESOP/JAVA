@@ -43,7 +43,7 @@ public class Test10870 {
 		for(int item : pkm) {
 			linkedhashset.add(item);
 		}
-		
+		 
 		System.out.println(linkedhashset);
     
 	}
