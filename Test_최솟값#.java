@@ -5,8 +5,8 @@ import java.util.Collections;
 
 public class T {
     public static void main(String[] args) {
-        int []A = {1,2};
-        int []B = {3,4};
+        int A[] = {1,2};
+        int B[] = {3,4};
 
         int answer = 0;
       
