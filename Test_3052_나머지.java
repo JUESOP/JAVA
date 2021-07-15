@@ -2,7 +2,7 @@ package code;
 
 import java.util.Scanner;
 
-public class T_숫자의개수 {
+public class T_나머지 {
 
 	public static void main(String[] args) {
 
