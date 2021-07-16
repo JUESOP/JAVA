@@ -9,13 +9,12 @@ public class T_평균 {
 		Scanner sc = new Scanner(System.in);
 
 		double arr[] = new double[sc.nextInt()];
-		double max = 0;
+
+		double max = arr[0];
 		double sum = 0;
 
 		for (int i = 0; i < arr.length; i++) {
 			arr[i] = sc.nextInt();
-			max = arr[0];
-
 			if (arr[i] > max) {
 				max = arr[i];
 			}
@@ -26,5 +25,6 @@ public class T_평균 {
 		}
 
 		System.out.println(sum / arr.length);
+
 	}
 }
