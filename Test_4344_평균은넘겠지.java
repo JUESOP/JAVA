@@ -2,7 +2,7 @@ package code;
 
 import java.util.Scanner;
 
-public class Gogodan {
+public class Main {
 
 	public static void main(String[] args) {
 
