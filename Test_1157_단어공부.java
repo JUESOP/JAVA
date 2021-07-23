@@ -13,7 +13,7 @@ public class Main {
 		char answer = ' '; // 결과값
 
 		for (int i = 0; i < st.length(); i++) {
-			count[st.charAt(i) - 'A']++;
+			count[st.charAt(i) - 'A']++; // char -> int 변환하기 위해 A를 빼줌
 			if (max < count[st.charAt(i) - 'A']) {
 				max = count[st.charAt(i) - 'A'];
 				answer = st.charAt(i);
