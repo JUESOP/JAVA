@@ -21,5 +21,5 @@ public class Test10870 {
 		}
 		
 		System.out.println(arr[N]);
-	}
+	} 
 }
