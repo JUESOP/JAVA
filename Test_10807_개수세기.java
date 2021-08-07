@@ -1,5 +1,5 @@
 package codingTest;
-
+ 
 import java.util.Scanner;
 
 public class Test10807 {
