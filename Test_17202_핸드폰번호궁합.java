@@ -2,7 +2,7 @@ package codingTest;
 
 import java.util.Scanner;
 
-public class Test17202 {
+public class Test17202 { 
 
 	public static void main(String[] args) {                //      * 설명 *
 		
